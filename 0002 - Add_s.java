@@ -5,7 +5,7 @@ public class Add_s
     public static void main(String[] args)
     {
         int number1, number2, Addition;
-
+        
         System.out.println("Enter the number one here : ");
         Scanner input = new Scanner(System.in);
         number1 = input.nextInt();

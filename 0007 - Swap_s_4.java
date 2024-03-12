@@ -2,7 +2,7 @@ package com.chandrika;
 
 import java.util.Scanner;
 
-public class Swap_S_4
+public class Swap_s_4
 {
     public static void main(String[] args)
     {

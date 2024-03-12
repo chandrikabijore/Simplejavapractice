@@ -1,6 +1,6 @@
 package com.chandrika;
 
-public class Swap_S_3
+public class Swap_s_3
 {
     public static void main(String args[])
     {

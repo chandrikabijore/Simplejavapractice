@@ -11,7 +11,7 @@ public class Divisors_s
         System.out.println("Enter the number : ");
         number = div.nextInt();
 
-        System.out.printf("The divisors of number %d are : \n", number);
+        System.out.printf("The divisors of number %d are :  \n", number);
         for (int i = 1; i <= number; i++)
         {
             if ((number % i) == 0)

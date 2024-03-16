@@ -24,3 +24,4 @@ public class Swap_s_1
         System.out.printf("\n\nAfter swapping a = %d and b = %d", + a,  b);
     }
 }
+

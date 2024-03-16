@@ -9,7 +9,6 @@ public class Add_s
         System.out.println("Enter the number one here : ");
         Scanner input = new Scanner(System.in);
         number1 = input.nextInt();
-        
 
         System.out.println("Enter the second number here : ");
         number2 = input.nextInt();

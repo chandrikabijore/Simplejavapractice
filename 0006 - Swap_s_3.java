@@ -18,4 +18,3 @@ public class Swap_s_3
         System.out.println("value of y : " + y);
     }
 }
-

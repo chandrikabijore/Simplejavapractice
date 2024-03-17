@@ -18,3 +18,5 @@ public class Fctorial_loop_s
         System.out.printf("Factorial of %d is : %d\n", number,Factorial);
     }
 }
+
+

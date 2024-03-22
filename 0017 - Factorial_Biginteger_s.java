@@ -26,4 +26,3 @@ public class Factorial_Biginteger_s
         }
     }
 }
-

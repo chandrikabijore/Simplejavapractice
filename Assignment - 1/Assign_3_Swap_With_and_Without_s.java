@@ -1,7 +1,6 @@
 // 3) java programs to swap to no with or without third variable
 
 package com.chandrika;
-
 public class Assign_3_Swap_With_and_Without_s
 {
     public static void main(String[] args)

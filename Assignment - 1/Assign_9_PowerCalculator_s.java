@@ -27,7 +27,6 @@ public class Assign_9_PowerCalculator_s
         System.out.println("Square: " + square);
         System.out.println("Cube: " + cube);
         System.out.println("Fourth Power: " + fourthPower);
-
         scanner.close();
     }
 }

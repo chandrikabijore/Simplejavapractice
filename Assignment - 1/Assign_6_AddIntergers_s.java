@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class Assign_6_AddIntergers_s
 {
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         Scanner Add = new Scanner(System.in);
         System.out.println("Enter an integer between 0 and 1000 : ");
         int number = Add.nextInt();

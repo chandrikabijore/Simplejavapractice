@@ -1,7 +1,6 @@
 //4) Java Program to Convert Fahrenheit into Celsius
 
 package com.chandrika;
-
 import java.util.Scanner;
 
 public class Assign_4_Temperature_Fahrenheit_Celsius_s

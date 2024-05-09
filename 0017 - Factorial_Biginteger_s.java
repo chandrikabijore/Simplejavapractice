@@ -16,8 +16,7 @@ public class Factorial_Biginteger_s
             System.out.println("Can't find factorial of negative number!!");
         else if (number <= 1)
             System.out.printf("%d! = %d", number, Factorial);
-        else
-        {
+        else{
             for (int i = number; i >= 2; i--)
             {
                 Factorial = Factorial.multiply(BigInteger.valueOf(i));

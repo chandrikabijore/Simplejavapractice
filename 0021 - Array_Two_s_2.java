@@ -1,6 +1,6 @@
 package com.chandrika;
 
-public class Array_Two_s_2
+public class Array_Two_s_3
 {
     public static void main(String[] args)
     {

@@ -21,3 +21,4 @@ public class Array_One_s
        // System.out.println(x[5]);
     }
 }
+

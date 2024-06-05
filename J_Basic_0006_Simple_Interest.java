@@ -1,4 +1,4 @@
-package com.chandrikabijore;
+package com.chandrika;
 
 import java.util.Scanner;
 
